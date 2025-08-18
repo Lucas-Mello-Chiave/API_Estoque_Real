@@ -1,0 +1,3170 @@
+[
+    {
+        "codigo": "8670",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "8752",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8753",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8807",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8806",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8763",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8762",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8809",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8808",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8758",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8757",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8756",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8755",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8754",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8759",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8761",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8820",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8726",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8889",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8725",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8735",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8734",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8733",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8731",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8732",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8728",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8795",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8727",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8729",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8730",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8679",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8724",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8723",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8680",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8722",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8682",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8716",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "8681",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 8.0
+            }
+        ]
+    },
+    {
+        "codigo": "8721",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8720",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8678",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 16.0
+            }
+        ]
+    },
+    {
+        "codigo": "8715",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8737",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8736",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8838",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 16.0
+            }
+        ]
+    },
+    {
+        "codigo": "8839",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 6.0
+            }
+        ]
+    },
+    {
+        "codigo": "8844",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 6.0
+            }
+        ]
+    },
+    {
+        "codigo": "8687",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 6.0
+            }
+        ]
+    },
+    {
+        "codigo": "8842",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8684",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 59.0
+            }
+        ]
+    },
+    {
+        "codigo": "8796",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "8685",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "8840",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8686",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "8688",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "8949",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 41.0
+            }
+        ]
+    },
+    {
+        "codigo": "8234",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1197.0
+            }
+        ]
+    },
+    {
+        "codigo": "8225",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 922.0
+            }
+        ]
+    },
+    {
+        "codigo": "8216",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 553.0
+            }
+        ]
+    },
+    {
+        "codigo": "8095",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 78.0
+            }
+        ]
+    },
+    {
+        "codigo": "8422",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 300.0
+            }
+        ]
+    },
+    {
+        "codigo": "8085",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 704.0
+            }
+        ]
+    },
+    {
+        "codigo": "8087",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8086",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "8088",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "1023",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "1024",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8096",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 225.0
+            }
+        ]
+    },
+    {
+        "codigo": "8084",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 109.0
+            }
+        ]
+    },
+    {
+        "codigo": "1025",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8816",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8081",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8082",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8818",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "8819",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "8190",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 18.0
+            }
+        ]
+    },
+    {
+        "codigo": "8191",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8192",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 8.0
+            }
+        ]
+    },
+    {
+        "codigo": "1126",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 12.0
+            }
+        ]
+    },
+    {
+        "codigo": "1127",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 23.0
+            }
+        ]
+    },
+    {
+        "codigo": "1128",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 6.0
+            }
+        ]
+    },
+    {
+        "codigo": "1129",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "8089",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 7.0
+            }
+        ]
+    },
+    {
+        "codigo": "8215",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "1256",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8219",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 6.0
+            }
+        ]
+    },
+    {
+        "codigo": "8226",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "8092",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "8375",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 11.0
+            }
+        ]
+    },
+    {
+        "codigo": "8376",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 8.0
+            }
+        ]
+    },
+    {
+        "codigo": "8377",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "1121",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 420.0
+            }
+        ]
+    },
+    {
+        "codigo": "8078",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 363.0
+            }
+        ]
+    },
+    {
+        "codigo": "8817",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 34.0
+            }
+        ]
+    },
+    {
+        "codigo": "8217",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 32.0
+            }
+        ]
+    },
+    {
+        "codigo": "8075",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8079",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8076",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 21.0
+            }
+        ]
+    },
+    {
+        "codigo": "8193",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 42.0
+            }
+        ]
+    },
+    {
+        "codigo": "8080",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 59.0
+            }
+        ]
+    },
+    {
+        "codigo": "8161",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5277.0
+            }
+        ]
+    },
+    {
+        "codigo": "8162",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1609.0
+            }
+        ]
+    },
+    {
+        "codigo": "8163",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1620.0
+            }
+        ]
+    },
+    {
+        "codigo": "8164",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 740.0
+            }
+        ]
+    },
+    {
+        "codigo": "8510",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 480.0
+            }
+        ]
+    },
+    {
+        "codigo": "8798",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 269.0
+            }
+        ]
+    },
+    {
+        "codigo": "8201",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8203",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 235.0
+            }
+        ]
+    },
+    {
+        "codigo": "8202",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 106.0
+            }
+        ]
+    },
+    {
+        "codigo": "8204",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 56.0
+            }
+        ]
+    },
+    {
+        "codigo": "8053",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 203.0
+            }
+        ]
+    },
+    {
+        "codigo": "8252",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8167",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 265.0
+            }
+        ]
+    },
+    {
+        "codigo": "8251",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 670.0
+            }
+        ]
+    },
+    {
+        "codigo": "8621",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 467.0
+            }
+        ]
+    },
+    {
+        "codigo": "8624",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 231.0
+            }
+        ]
+    },
+    {
+        "codigo": "8583",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 580.0
+            }
+        ]
+    },
+    {
+        "codigo": "8871",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 510.0
+            }
+        ]
+    },
+    {
+        "codigo": "8584",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 314.0
+            }
+        ]
+    },
+    {
+        "codigo": "8206",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 258.0
+            }
+        ]
+    },
+    {
+        "codigo": "8239",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 18.0
+            }
+        ]
+    },
+    {
+        "codigo": "8205",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 183.0
+            }
+        ]
+    },
+    {
+        "codigo": "8404",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 134.0
+            }
+        ]
+    },
+    {
+        "codigo": "8512",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 171.0
+            }
+        ]
+    },
+    {
+        "codigo": "8513",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 91.0
+            }
+        ]
+    },
+    {
+        "codigo": "8514",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 36.0
+            }
+        ]
+    },
+    {
+        "codigo": "8515",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 68.0
+            }
+        ]
+    },
+    {
+        "codigo": "8487",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 116.0
+            }
+        ]
+    },
+    {
+        "codigo": "8486",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 60.0
+            }
+        ]
+    },
+    {
+        "codigo": "8495",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 66.0
+            }
+        ]
+    },
+    {
+        "codigo": "8803",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 94.0
+            }
+        ]
+    },
+    {
+        "codigo": "8471",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 49.0
+            }
+        ]
+    },
+    {
+        "codigo": "8246",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 82.0
+            }
+        ]
+    },
+    {
+        "codigo": "8014",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 40.0
+            }
+        ]
+    },
+    {
+        "codigo": "8383",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 106.0
+            }
+        ]
+    },
+    {
+        "codigo": "8384",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 47.0
+            }
+        ]
+    },
+    {
+        "codigo": "8058",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 12.0
+            }
+        ]
+    },
+    {
+        "codigo": "8104",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 46.0
+            }
+        ]
+    },
+    {
+        "codigo": "8509",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 15.0
+            }
+        ]
+    },
+    {
+        "codigo": "8105",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 32.0
+            }
+        ]
+    },
+    {
+        "codigo": "8103",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8260",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 70.0
+            }
+        ]
+    },
+    {
+        "codigo": "8015",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 58.0
+            }
+        ]
+    },
+    {
+        "codigo": "8059",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "8060",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 20.0
+            }
+        ]
+    },
+    {
+        "codigo": "8349",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 20.0
+            }
+        ]
+    },
+    {
+        "codigo": "8250",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 30.0
+            }
+        ]
+    },
+    {
+        "codigo": "8367",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 295.0
+            }
+        ]
+    },
+    {
+        "codigo": "8409",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 478.0
+            }
+        ]
+    },
+    {
+        "codigo": "8293",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 127.0
+            }
+        ]
+    },
+    {
+        "codigo": "8292",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 64.0
+            }
+        ]
+    },
+    {
+        "codigo": "8017",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 375.0
+            }
+        ]
+    },
+    {
+        "codigo": "8498",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 329.0
+            }
+        ]
+    },
+    {
+        "codigo": "8331",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2728.0
+            }
+        ]
+    },
+    {
+        "codigo": "8373",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3975.0
+            }
+        ]
+    },
+    {
+        "codigo": "8827",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1600.0
+            }
+        ]
+    },
+    {
+        "codigo": "8856",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 950.0
+            }
+        ]
+    },
+    {
+        "codigo": "8470",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 317.0
+            }
+        ]
+    },
+    {
+        "codigo": "8159",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 19.0
+            }
+        ]
+    },
+    {
+        "codigo": "8479",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1677.0
+            }
+        ]
+    },
+    {
+        "codigo": "1896",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 68.0
+            }
+        ]
+    },
+    {
+        "codigo": "1866",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "1867",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 80.0
+            }
+        ]
+    },
+    {
+        "codigo": "1894",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 34.0
+            }
+        ]
+    },
+    {
+        "codigo": "1868",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 64.0
+            }
+        ]
+    },
+    {
+        "codigo": "1898",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 21.0
+            }
+        ]
+    },
+    {
+        "codigo": "1860",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 191.0
+            }
+        ]
+    },
+    {
+        "codigo": "1861",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 298.0
+            }
+        ]
+    },
+    {
+        "codigo": "1862",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 35.0
+            }
+        ]
+    },
+    {
+        "codigo": "1858",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 16.0
+            }
+        ]
+    },
+    {
+        "codigo": "1859",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "1864",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 239.0
+            }
+        ]
+    },
+    {
+        "codigo": "1865",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 162.0
+            }
+        ]
+    },
+    {
+        "codigo": "1897",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 59.73
+            }
+        ]
+    },
+    {
+        "codigo": "1878",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 28.0
+            }
+        ]
+    },
+    {
+        "codigo": "1875",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 35.0
+            }
+        ]
+    },
+    {
+        "codigo": "1874",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 71.0
+            }
+        ]
+    },
+    {
+        "codigo": "1877",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 90.0
+            }
+        ]
+    },
+    {
+        "codigo": "1873",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 51.0
+            }
+        ]
+    },
+    {
+        "codigo": "1876",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 11.0
+            }
+        ]
+    },
+    {
+        "codigo": "1885",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "1888",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "1887",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 15.0
+            }
+        ]
+    },
+    {
+        "codigo": "1892",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "1890",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 15.0
+            }
+        ]
+    },
+    {
+        "codigo": "1891",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "1893",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "1886",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 15.0
+            }
+        ]
+    },
+    {
+        "codigo": "1889",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 15.0
+            }
+        ]
+    },
+    {
+        "codigo": "1884",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "1880",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "1882",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 15.0
+            }
+        ]
+    },
+    {
+        "codigo": "1881",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 6.0
+            }
+        ]
+    },
+    {
+        "codigo": "1883",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 9.0
+            }
+        ]
+    },
+    {
+        "codigo": "8277",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1085.0
+            }
+        ]
+    },
+    {
+        "codigo": "8278",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 943.0
+            }
+        ]
+    },
+    {
+        "codigo": "8279",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 630.0
+            }
+        ]
+    },
+    {
+        "codigo": "8280",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 362.0
+            }
+        ]
+    },
+    {
+        "codigo": "8414",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 357.0
+            }
+        ]
+    },
+    {
+        "codigo": "8415",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 419.0
+            }
+        ]
+    },
+    {
+        "codigo": "8416",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 343.0
+            }
+        ]
+    },
+    {
+        "codigo": "8417",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 230.0
+            }
+        ]
+    },
+    {
+        "codigo": "8418",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 181.0
+            }
+        ]
+    },
+    {
+        "codigo": "8419",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 171.0
+            }
+        ]
+    },
+    {
+        "codigo": "8420",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 161.0
+            }
+        ]
+    },
+    {
+        "codigo": "8875",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 982.0
+            }
+        ]
+    },
+    {
+        "codigo": "8876",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 978.0
+            }
+        ]
+    },
+    {
+        "codigo": "8877",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 995.0
+            }
+        ]
+    },
+    {
+        "codigo": "8881",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 987.0
+            }
+        ]
+    },
+    {
+        "codigo": "8882",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 995.0
+            }
+        ]
+    },
+    {
+        "codigo": "8878",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 974.0
+            }
+        ]
+    },
+    {
+        "codigo": "8879",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 970.0
+            }
+        ]
+    },
+    {
+        "codigo": "8880",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 984.0
+            }
+        ]
+    },
+    {
+        "codigo": "1872",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 52.0
+            }
+        ]
+    },
+    {
+        "codigo": "8958",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 13.0
+            }
+        ]
+    },
+    {
+        "codigo": "8954",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 35.0
+            }
+        ]
+    },
+    {
+        "codigo": "8955",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 60.0
+            }
+        ]
+    },
+    {
+        "codigo": "8959",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 23.0
+            }
+        ]
+    },
+    {
+        "codigo": "8956",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 13.0
+            }
+        ]
+    },
+    {
+        "codigo": "8960",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "8961",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 23.0
+            }
+        ]
+    },
+    {
+        "codigo": "8957",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8962",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8354",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8355",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8932",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8432",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8825",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8826",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 8.0
+            }
+        ]
+    },
+    {
+        "codigo": "1426",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 158.0
+            }
+        ]
+    },
+    {
+        "codigo": "8463",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 6.0
+            }
+        ]
+    },
+    {
+        "codigo": "8490",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 33.0
+            }
+        ]
+    },
+    {
+        "codigo": "8482",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 11.0
+            }
+        ]
+    },
+    {
+        "codigo": "8491",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 19.0
+            }
+        ]
+    },
+    {
+        "codigo": "8483",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8492",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8001",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 19.0
+            }
+        ]
+    },
+    {
+        "codigo": "8002",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 17.0
+            }
+        ]
+    },
+    {
+        "codigo": "8348",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "1403",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8120",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8003",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8424",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "8426",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "8425",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "1844",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 40.0
+            }
+        ]
+    },
+    {
+        "codigo": "1835",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 47.0
+            }
+        ]
+    },
+    {
+        "codigo": "1831",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 37.0
+            }
+        ]
+    },
+    {
+        "codigo": "1842",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 62.0
+            }
+        ]
+    },
+    {
+        "codigo": "1840",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "1839",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 31.0
+            }
+        ]
+    },
+    {
+        "codigo": "1841",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "1843",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 88.0
+            }
+        ]
+    },
+    {
+        "codigo": "1832",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 73.0
+            }
+        ]
+    },
+    {
+        "codigo": "1836",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 28.0
+            }
+        ]
+    },
+    {
+        "codigo": "1845",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "1837",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "1834",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 43.0
+            }
+        ]
+    },
+    {
+        "codigo": "8196",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 860.0
+            }
+        ]
+    },
+    {
+        "codigo": "1556",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8243",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "1541",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "1543",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    },
+    {
+        "codigo": "8195",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 732.0
+            }
+        ]
+    },
+    {
+        "codigo": "8909",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "8916",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8912",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 9.0
+            }
+        ]
+    },
+    {
+        "codigo": "8913",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 4.0
+            }
+        ]
+    },
+    {
+        "codigo": "8947",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 6.0
+            }
+        ]
+    },
+    {
+        "codigo": "8946",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 18.0
+            }
+        ]
+    },
+    {
+        "codigo": "8910",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 5.0
+            }
+        ]
+    },
+    {
+        "codigo": "8945",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 10.0
+            }
+        ]
+    },
+    {
+        "codigo": "8944",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8915",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8914",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8935",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8919",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 9.0
+            }
+        ]
+    },
+    {
+        "codigo": "8918",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 6.0
+            }
+        ]
+    },
+    {
+        "codigo": "8920",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8948",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8923",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8942",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 1.0
+            }
+        ]
+    },
+    {
+        "codigo": "8941",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8943",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8906",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8905",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 2.0
+            }
+        ]
+    },
+    {
+        "codigo": "8908",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 3.0
+            }
+        ]
+    },
+    {
+        "codigo": "8907",
+        "urlDetalhe": "",
+        "tipoEstoque": "N",
+        "estoqueFiliais": [
+            {
+                "codigoFilial": 1,
+                "estoqueAtual": 0.0
+            }
+        ]
+    }
+]
