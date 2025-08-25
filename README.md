@@ -1,7 +1,3 @@
-Perfeito, mestre Lucas 👌
-Segue o mesmo `README.md` com um **diagrama visual em Mermaid** mostrando o fluxo do pipeline:
-
----
 
 # 📊 Pipeline de Coleta e Relatórios de Estoque & Vendas
 
