@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> db04df7bb50a09519662ef690ea96cb14db5683e
 # 📊 Pipeline de Coleta e Relatórios de Estoque & Vendas
 
 Este projeto implementa um **pipeline automatizado** para:
