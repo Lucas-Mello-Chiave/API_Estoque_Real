@@ -1,8 +1,8 @@
 {
     "datade": "2024-08-17",
-    "dataate": "2025-08-18",
+    "dataate": "2025-08-27",
     "filial": 1,
-    "total_registros": 3115,
+    "total_registros": 3205,
     "registros": [
         {
             "tipo_Operacao": "VND",
@@ -98,36 +98,6 @@
                 },
                 {
                     "codigo": "8014",
-                    "quantidade": 1.0
-                }
-            ]
-        },
-        {
-            "tipo_Operacao": "VND",
-            "data": null,
-            "produtos": [
-                {
-                    "codigo": "1896",
-                    "quantidade": 8.0
-                },
-                {
-                    "codigo": "8487",
-                    "quantidade": 2.0
-                },
-                {
-                    "codigo": "8486",
-                    "quantidade": 1.0
-                },
-                {
-                    "codigo": "8495",
-                    "quantidade": 1.0
-                },
-                {
-                    "codigo": "1875",
-                    "quantidade": 1.0
-                },
-                {
-                    "codigo": "1874",
                     "quantidade": 1.0
                 }
             ]
@@ -52654,6 +52624,1556 @@
                 },
                 {
                     "codigo": "8486",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T10:27:28.317",
+            "produtos": [
+                {
+                    "codigo": "1896",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8487",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8486",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8495",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "1875",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "1874",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T10:38:49.18",
+            "produtos": [
+                {
+                    "codigo": "8404",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 10.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T11:21:45.797",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8162",
+                    "quantidade": 4.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T13:25:29.147",
+            "produtos": [
+                {
+                    "codigo": "8487",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T13:27:39.4",
+            "produtos": [
+                {
+                    "codigo": "8053",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8404",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8162",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8484",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8657",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T14:21:02.653",
+            "produtos": [
+                {
+                    "codigo": "8487",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8798",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T14:38:24.28",
+            "produtos": [
+                {
+                    "codigo": "8918",
+                    "quantidade": 3.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T15:06:18.477",
+            "produtos": [
+                {
+                    "codigo": "8164",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8162",
+                    "quantidade": 10.0
+                },
+                {
+                    "codigo": "8163",
+                    "quantidade": 10.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 100.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T17:23:19.48",
+            "produtos": [
+                {
+                    "codigo": "8676",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-18T17:33:37.797",
+            "produtos": [
+                {
+                    "codigo": "8383",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8015",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T08:32:26.5",
+            "produtos": [
+                {
+                    "codigo": "8510",
+                    "quantidade": 4.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T09:08:08.27",
+            "produtos": [
+                {
+                    "codigo": "8479",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8955",
+                    "quantidade": 5.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T09:42:29.57",
+            "produtos": [
+                {
+                    "codigo": "8014",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8510",
+                    "quantidade": 26.0
+                },
+                {
+                    "codigo": "8104",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8162",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "1858",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "1844",
+                    "quantidade": 3.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T10:11:34.837",
+            "produtos": [
+                {
+                    "codigo": "8017",
+                    "quantidade": 4.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T10:40:24.5",
+            "produtos": [
+                {
+                    "codigo": "8584",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8583",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8487",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8841",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8841",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T11:17:15.487",
+            "produtos": [
+                {
+                    "codigo": "8484",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "1858",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T14:08:01.22",
+            "produtos": [
+                {
+                    "codigo": "8206",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T14:11:08.517",
+            "produtos": [
+                {
+                    "codigo": "8206",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8798",
+                    "quantidade": 5.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T16:00:36.383",
+            "produtos": [
+                {
+                    "codigo": "4032",
+                    "quantidade": 4.0
+                },
+                {
+                    "codigo": "4014",
+                    "quantidade": 9.0
+                },
+                {
+                    "codigo": "8299",
+                    "quantidade": 5.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T16:04:12.29",
+            "produtos": [
+                {
+                    "codigo": "8297",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T16:09:13.39",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 41.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T16:16:47.137",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8479",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T16:20:11.927",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 26.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T16:46:24.2",
+            "produtos": [
+                {
+                    "codigo": "1844",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8958",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8053",
+                    "quantidade": 4.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T17:05:29.043",
+            "produtos": [
+                {
+                    "codigo": "8484",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-19T17:23:33.377",
+            "produtos": [
+                {
+                    "codigo": "8206",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T08:45:57.543",
+            "produtos": [
+                {
+                    "codigo": "8470",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T08:49:07.727",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 12.0
+                },
+                {
+                    "codigo": "8163",
+                    "quantidade": 3.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T09:40:01.617",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8516",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T10:03:34.563",
+            "produtos": [
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8404",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8206",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8583",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8871",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 4.0
+                },
+                {
+                    "codigo": "8162",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8878",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8280",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "1858",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8870",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "1874",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T11:33:24.16",
+            "produtos": [
+                {
+                    "codigo": "8053",
+                    "quantidade": 7.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T13:28:22.99",
+            "produtos": [
+                {
+                    "codigo": "8946",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T13:31:32.36",
+            "produtos": [
+                {
+                    "codigo": "8955",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8958",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8409",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8484",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T13:56:49.17",
+            "produtos": [
+                {
+                    "codigo": "8078",
+                    "quantidade": 10.0
+                },
+                {
+                    "codigo": "8331",
+                    "quantidade": 30.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T15:06:58.593",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 12.0
+                },
+                {
+                    "codigo": "8583",
+                    "quantidade": 18.0
+                },
+                {
+                    "codigo": "8162",
+                    "quantidade": 18.0
+                },
+                {
+                    "codigo": "8167",
+                    "quantidade": 10.0
+                },
+                {
+                    "codigo": "8621",
+                    "quantidade": 10.0
+                },
+                {
+                    "codigo": "8053",
+                    "quantidade": 20.0
+                },
+                {
+                    "codigo": "8955",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T15:58:27.227",
+            "produtos": [
+                {
+                    "codigo": "8163",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8513",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8206",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8525",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8206",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T16:03:59.713",
+            "produtos": [
+                {
+                    "codigo": "8495",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8487",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8486",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8958",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8479",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T16:18:43.843",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 20.0
+                },
+                {
+                    "codigo": "1426",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8163",
+                    "quantidade": 14.0
+                },
+                {
+                    "codigo": "8487",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8486",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T16:53:18.607",
+            "produtos": [
+                {
+                    "codigo": "1878",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8870",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8876",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8878",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T17:39:46.377",
+            "produtos": [
+                {
+                    "codigo": "1951",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-20T17:54:26.4",
+            "produtos": [
+                {
+                    "codigo": "8870",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-21T09:01:15.947",
+            "produtos": [
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8163",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-21T09:18:27.1",
+            "produtos": [
+                {
+                    "codigo": "1865",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 36.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-21T10:50:24.617",
+            "produtos": [
+                {
+                    "codigo": "8498",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "1896",
+                    "quantidade": 4.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-21T13:31:40.8",
+            "produtos": [
+                {
+                    "codigo": "8487",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-21T13:34:06.173",
+            "produtos": [
+                {
+                    "codigo": "8583",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8684",
+                    "quantidade": 7.0
+                },
+                {
+                    "codigo": "8225",
+                    "quantidade": 60.0
+                },
+                {
+                    "codigo": "8234",
+                    "quantidade": 60.0
+                },
+                {
+                    "codigo": "1839",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-21T17:19:56.47",
+            "produtos": [
+                {
+                    "codigo": "8163",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-22T08:00:06.123",
+            "produtos": [
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-22T08:42:26.13",
+            "produtos": [
+                {
+                    "codigo": "8798",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8510",
+                    "quantidade": 19.0
+                },
+                {
+                    "codigo": "8162",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8164",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8162",
+                    "quantidade": 16.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-22T09:50:19.493",
+            "produtos": [
+                {
+                    "codigo": "8870",
+                    "quantidade": 14.0
+                },
+                {
+                    "codigo": "1878",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "1880",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-22T09:53:52.323",
+            "produtos": [
+                {
+                    "codigo": "8163",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 8.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-22T10:51:48.687",
+            "produtos": [
+                {
+                    "codigo": "8409",
+                    "quantidade": 4.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-22T11:55:16.01",
+            "produtos": [
+                {
+                    "codigo": "8383",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-22T13:24:25.133",
+            "produtos": [
+                {
+                    "codigo": "8944",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-25T09:53:03.68",
+            "produtos": [
+                {
+                    "codigo": "8206",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8584",
+                    "quantidade": 9.0
+                },
+                {
+                    "codigo": "8798",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-25T13:29:39.76",
+            "produtos": [
+                {
+                    "codigo": "8162",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8164",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-25T13:31:41.04",
+            "produtos": [
+                {
+                    "codigo": "1844",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8383",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 18.0
+                },
+                {
+                    "codigo": "8871",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8583",
+                    "quantidade": 4.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8958",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-25T13:40:01.847",
+            "produtos": [
+                {
+                    "codigo": "8206",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 10.0
+                },
+                {
+                    "codigo": "8513",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-25T14:22:09.56",
+            "produtos": [
+                {
+                    "codigo": "8766",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8711",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8769",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-25T14:57:53.043",
+            "produtos": [
+                {
+                    "codigo": "1861",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "1860",
+                    "quantidade": 3.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-25T17:46:06.817",
+            "produtos": [
+                {
+                    "codigo": "8955",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8932",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8583",
+                    "quantidade": 10.0
+                },
+                {
+                    "codigo": "8621",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8567",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-25T17:48:45.01",
+            "produtos": [
+                {
+                    "codigo": "8484",
+                    "quantidade": 3.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T09:06:39.173",
+            "produtos": [
+                {
+                    "codigo": "8312",
+                    "quantidade": 5.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T10:17:40.48",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 10.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T10:20:32.66",
+            "produtos": [
+                {
+                    "codigo": "8479",
+                    "quantidade": 12.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T10:25:08.633",
+            "produtos": [
+                {
+                    "codigo": "8163",
+                    "quantidade": 19.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T10:27:31.65",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8512",
+                    "quantidade": 4.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T10:30:46.32",
+            "produtos": [
+                {
+                    "codigo": "8583",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T10:35:25.253",
+            "produtos": [
+                {
+                    "codigo": "8486",
+                    "quantidade": 4.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 30.0
+                },
+                {
+                    "codigo": "8487",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8279",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8280",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8206",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8404",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8278",
+                    "quantidade": 5.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T10:42:39.353",
+            "produtos": [
+                {
+                    "codigo": "8841",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8854",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T10:49:59.347",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T11:36:05.537",
+            "produtos": [
+                {
+                    "codigo": "8812",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T13:34:46.73",
+            "produtos": [
+                {
+                    "codigo": "8681",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T13:40:32.707",
+            "produtos": [
+                {
+                    "codigo": "8943",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T14:00:26.24",
+            "produtos": [
+                {
+                    "codigo": "8206",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "1874",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 46.0
+                },
+                {
+                    "codigo": "8164",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8251",
+                    "quantidade": 4.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T14:26:28.313",
+            "produtos": [
+                {
+                    "codigo": "8162",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T15:30:05.89",
+            "produtos": [
+                {
+                    "codigo": "8796",
+                    "quantidade": 4.0
+                },
+                {
+                    "codigo": "8678",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8838",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8839",
+                    "quantidade": 3.0
+                },
+                {
+                    "codigo": "8844",
+                    "quantidade": 4.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T15:35:02.073",
+            "produtos": [
+                {
+                    "codigo": "1865",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T15:40:41.24",
+            "produtos": [
+                {
+                    "codigo": "8954",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8955",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 6.0
+                },
+                {
+                    "codigo": "8163",
+                    "quantidade": 3.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T15:42:27.603",
+            "produtos": [
+                {
+                    "codigo": "8484",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8870",
+                    "quantidade": 20.0
+                },
+                {
+                    "codigo": "8484",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T16:04:01.32",
+            "produtos": [
+                {
+                    "codigo": "8203",
+                    "quantidade": 23.0
+                },
+                {
+                    "codigo": "8162",
+                    "quantidade": 10.0
+                },
+                {
+                    "codigo": "8201",
+                    "quantidade": 3.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T16:16:59.18",
+            "produtos": [
+                {
+                    "codigo": "8162",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8014",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8944",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8952",
+                    "quantidade": 18.0
+                },
+                {
+                    "codigo": "8911",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8205",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T17:11:10.433",
+            "produtos": [
+                {
+                    "codigo": "1841",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8955",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8657",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T17:14:54.467",
+            "produtos": [
+                {
+                    "codigo": "8694",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8526",
+                    "quantidade": 5.0
+                },
+                {
+                    "codigo": "8521",
+                    "quantidade": 10.0
+                },
+                {
+                    "codigo": "8745",
+                    "quantidade": 8.0
+                },
+                {
+                    "codigo": "8743",
+                    "quantidade": 8.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T17:13:31.92",
+            "produtos": [
+                {
+                    "codigo": "8161",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8053",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T17:25:33.77",
+            "produtos": [
+                {
+                    "codigo": "8206",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8161",
+                    "quantidade": 6.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T17:29:34.787",
+            "produtos": [
+                {
+                    "codigo": "8384",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8246",
+                    "quantidade": 1.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-26T17:32:42.287",
+            "produtos": [
+                {
+                    "codigo": "8841",
+                    "quantidade": 2.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-27T09:20:51.6",
+            "produtos": [
+                {
+                    "codigo": "8479",
+                    "quantidade": 12.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-27T09:27:41.417",
+            "produtos": [
+                {
+                    "codigo": "8745",
+                    "quantidade": 1.0
+                },
+                {
+                    "codigo": "8744",
+                    "quantidade": 4.0
+                }
+            ]
+        },
+        {
+            "tipo_Operacao": "VND",
+            "data": "2025-08-27T09:33:10.73",
+            "produtos": [
+                {
+                    "codigo": "8017",
+                    "quantidade": 2.0
+                },
+                {
+                    "codigo": "8958",
                     "quantidade": 1.0
                 }
             ]

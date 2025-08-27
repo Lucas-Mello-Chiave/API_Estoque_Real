@@ -2,7 +2,7 @@
 import json
 import csv
 import os
-from datetime import datetime
+from datetime import datetime, date, timedelta # MODIFICADO: Importa 'date' e 'timedelta'
 
 def generate_report():
     """Gera relatório CSV com dados consolidados"""
@@ -22,8 +22,16 @@ def generate_report():
         with open(ids_path, 'r', encoding='utf-8') as f:
             ids = [line.strip() for line in f.readlines()]
         
+        # --- INÍCIO DAS MODIFICAÇÕES ---
+
+        # 1. NOVO: Definir a data de corte para os últimos 7 meses
+        # Usamos uma aproximação de 30 dias por mês.
+        data_hoje = date.today()
+        data_limite = data_hoje - timedelta(days=7 * 30)
+        print(f"Calculando média de vendas a partir de: {data_limite.strftime('%Y-%m-%d')}")
+
         # Inicializar estruturas
-        soma_12_meses = {id: 0.0 for id in ids}
+        soma_7_meses = {id: 0.0 for id in ids} # MODIFICADO: Renomeado de 'soma_12_meses'
         vendas_2025 = {id: 0.0 for id in ids}
         estoques = {id: 0.0 for id in ids}
         
@@ -36,21 +44,27 @@ def generate_report():
                     continue
                     
                 try:
-                    data_venda = datetime.strptime(registro['data'].split('T')[0], '%Y-%m-%d')
+                    data_venda = datetime.strptime(registro['data'].split('T')[0], '%Y-%m-%d').date()
                 except (ValueError, AttributeError):
                     continue
                 
                 for produto in registro['produtos']:
                     cod = produto['codigo']
                     if cod in ids:
-                        soma_12_meses[cod] += produto['quantidade']
+                        # 2. NOVO: Adiciona um filtro para considerar apenas vendas dentro do período de 7 meses
+                        if data_venda >= data_limite:
+                            soma_7_meses[cod] += produto['quantidade'] # MODIFICADO: Usa a nova variável
+                        
+                        # A lógica de vendas de 2025 permanece a mesma
                         if data_venda.year == 2025:
                             vendas_2025[cod] += produto['quantidade']
         
-        # Calcular médias
-        medias = {id: soma_12_meses[id] / 12 for id in ids}
+        # 3. MODIFICADO: Calcular médias dividindo por 7
+        medias = {id: soma_7_meses[id] / 7 for id in ids}
         
-        # Processar estoques
+        # --- FIM DAS MODIFICAÇÕES ---
+        
+        # Processar estoques (esta seção permanece inalterada)
         with open(stock_path, 'r', encoding='utf-8') as f:
             dados_estoque = json.load(f)
             for item in dados_estoque:

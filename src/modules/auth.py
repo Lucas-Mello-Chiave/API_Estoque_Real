@@ -6,6 +6,8 @@ import base64
 import time
 
 BASE_URL = "http://127.0.0.1:60500"
+#BASE_URL = "http://192.168.1.111:60000"
+#BASE_URL = "http://201.22.86.125:60000"
 SENHA = "V7!xL9@qP#zR2$wM"
 SERIE = "HIEAPA-605662-FWKD"
 FILIAL = 1

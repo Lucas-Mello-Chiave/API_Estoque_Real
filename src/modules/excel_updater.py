@@ -1,11 +1,12 @@
-# src/modules/excel_updater.py
 import pandas as pd
 import os
+from datetime import date # <--- 1. Importar o módulo de data
 
 def update_excel_from_csv():
     """
     Lê os dados do resultado.csv e os insere na aba 'info_tempo_real'
     de uma planilha Excel, substituindo a aba se ela já existir.
+    Adiciona a data de execução na célula D1.
     """
     # Define os caminhos baseados na estrutura do projeto
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -39,6 +40,19 @@ def update_excel_from_csv():
             print(f"Escrevendo dados na aba '{sheet_name}'...")
             # Converte o DataFrame para uma planilha Excel, sem o índice do pandas
             df.to_excel(writer, sheet_name=sheet_name, index=False)
+            
+            # --- INÍCIO DA MODIFICAÇÃO ---
+            # 2. Obter a data atual no formato desejado
+            execution_date = date.today().strftime('%d/%m/%Y')
+
+            # 3. Acessar a planilha (worksheet) que acabamos de criar/substituir
+            workbook = writer.book
+            worksheet = workbook[sheet_name]
+            
+            # 4. Escrever a data na célula D1
+            worksheet['E1'] = execution_date
+            print(f"Adicionando data de execução '{execution_date}' na célula D1.")
+            # --- FIM DA MODIFICAÇÃO ---
         
         print("Planilha atualizada com sucesso!")
         return excel_path
