@@ -78,7 +78,7 @@ data/
 - Bibliotecas:
   ```bash
   pip install requests pandas openpyxl
-````
+
 
 ---
 
