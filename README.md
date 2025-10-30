@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Sistema de Coleta, Limpeza e Consolidação de Vendas & Estoque
 
 Este projeto implementa um **pipeline de ETL (Extract, Transform, Load)** para integrar dados de vendas e estoque de um ERP/Shop9, consolidando-os em relatórios prontos para análise em Excel/Power BI.
