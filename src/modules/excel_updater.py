@@ -10,6 +10,7 @@ def update_excel_from_csv():
     Adiciona a data de execução na célula G1.
     Também inclui a coluna 'Unidade' vinda de unidade.csv.
     Formata as colunas numéricas com casas decimais apropriadas.
+    NOVO: Filtra registros onde todas as colunas numéricas são zero.
     """
     # Define os caminhos baseados na estrutura do projeto
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -30,12 +31,24 @@ def update_excel_from_csv():
         print(f"Lendo dados de: {os.path.basename(csv_path)}")
         df = pd.read_csv(csv_path, delimiter=';', encoding='latin1')
 
+        # NOVO: Filtrar registros onde todas as colunas numéricas são zero
+        print(f"Total de registros antes da filtragem: {len(df)}")
+        
+        # Identificar colunas numéricas (exceto 'id')
+        numeric_cols = ['media', 'vendas_2025', 'estoque', 'vendas_6_meses']
+        
+        # Criar máscara: manter apenas linhas onde pelo menos uma coluna numérica é diferente de zero
+        mask = (df[numeric_cols] != 0).any(axis=1)
+        df = df[mask]
+        
+        print(f"Total de registros após filtrar zeros: {len(df)}")
+
         # Se existir o arquivo unidade.csv, faz o merge para adicionar a coluna Unidade
         if os.path.exists(unidade_path):
             print(f"Lendo unidades de: {os.path.basename(unidade_path)}")
             df_unidade = pd.read_csv(unidade_path, delimiter=';', encoding='latin1')
 
-            # Converter ambas as colunas 'id' para inteiro e depois string antes do merge
+            # Converter ambas as colunas 'id' para inteiro antes do merge
             if 'id' in df_unidade.columns and 'id' in df.columns:
                 # Remover linhas com id vazio/NaN antes da conversão
                 df = df.dropna(subset=['id'])
@@ -45,9 +58,9 @@ def update_excel_from_csv():
                 df_unidade['id'] = pd.to_numeric(df_unidade['id'], errors='coerce')
                 df_unidade = df_unidade.dropna(subset=['id'])
                 
-                # Converter para int primeiro (remove o .0) e depois para string
-                df['id'] = df['id'].astype(float).astype(int).astype(str).str.strip()
-                df_unidade['id'] = df_unidade['id'].astype(int).astype(str).str.strip()
+                # Converter para int e MANTER como número (não converter para string)
+                df['id'] = df['id'].astype(float).astype(int)
+                df_unidade['id'] = df_unidade['id'].astype(int)
 
                 df = df.merge(df_unidade[['id', 'Unidade']], on='id', how='left')
                 print("Coluna 'Unidade' adicionada com sucesso.")
@@ -92,6 +105,7 @@ def update_excel_from_csv():
             # FORMATAÇÃO: definir número de casas decimais no Excel
             # Mapeie nomes de colunas para formatos
             number_format_map = {
+                'id': '0',                   # número inteiro (NOVO)
                 'media': '0.00000',          # 5 casas decimais
                 'vendas_6_meses': '0',       # número inteiro
                 'vendas_2025': '0',          # número inteiro

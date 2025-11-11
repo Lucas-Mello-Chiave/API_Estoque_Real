@@ -10,7 +10,7 @@ def run_pipeline():
     
     print("\n" + "="*50)
     print("Coletando dados de vendas...")
-    sales_fetcher.fetch_saidas_last_366_days()
+    #sales_fetcher.fetch_saidas_last_366_days()
     
     print("\n" + "="*50)
     print("Processando dados de vendas...")
@@ -20,7 +20,6 @@ def run_pipeline():
     print("Gerando relatório final em CSV...")
     report_generator.generate_report()
 
-    # NOVO: Adiciona a etapa de atualização da planilha Excel
     print("\n" + "="*50)
     print("Atualizando planilha Excel...")
     excel_updater.update_excel_from_csv()

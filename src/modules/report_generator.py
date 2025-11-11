@@ -22,18 +22,18 @@ def generate_report():
         with open(ids_path, 'r', encoding='utf-8') as f:
             ids = [line.strip() for line in f.readlines()]
         
-        # --- INÍCIO DAS MODIFICAÇÕES ---
-
-        # 1. NOVO: Definir a data de corte para os últimos 6 meses
-        # Usamos uma aproximação de 30 dias por mês.
+        # Definir a data de corte para os últimos 6 meses
         data_hoje = date.today()
         data_limite = data_hoje - timedelta(days=6 * 30)
         print(f"Calculando média de vendas a partir de: {data_limite.strftime('%Y-%m-%d')}")
 
+        # NOVO: Rastrear quais IDs realmente têm dados
+        ids_com_dados = set()
+
         # Inicializar estruturas
-        soma_6_meses = {id: 0.0 for id in ids}  # MODIFICADO: Renomeado de 'soma_7_meses'
-        vendas_2025 = {id: 0.0 for id in ids}
-        estoques = {id: 0.0 for id in ids}
+        soma_6_meses = {}
+        vendas_2025 = {}
+        estoques = {}
         
         # Processar vendas
         with open(sales_path, 'r', encoding='utf-8') as f:
@@ -51,45 +51,56 @@ def generate_report():
                 for produto in registro['produtos']:
                     cod = produto['codigo']
                     if cod in ids:
-                        # 2. NOVO: Adiciona um filtro para considerar apenas vendas dentro do período de 6 meses
-                        if data_venda >= data_limite:
-                            soma_6_meses[cod] += produto['quantidade']  # MODIFICADO: Usa a nova variável
+                        # Marcar que este ID tem dados
+                        ids_com_dados.add(cod)
                         
-                        # A lógica de vendas de 2025 permanece a mesma
+                        # Inicializar se necessário
+                        if cod not in soma_6_meses:
+                            soma_6_meses[cod] = 0.0
+                        if cod not in vendas_2025:
+                            vendas_2025[cod] = 0.0
+                        
+                        # Adicionar vendas dentro do período de 6 meses
+                        if data_venda >= data_limite:
+                            soma_6_meses[cod] += produto['quantidade']
+                        
+                        # Vendas de 2025
                         if data_venda.year == 2025:
                             vendas_2025[cod] += produto['quantidade']
         
-        # 3. MODIFICADO: Calcular médias dividindo por 6
-        medias = {id: soma_6_meses[id] / 6 for id in ids}
+        # Calcular médias dividindo por 6
+        medias = {id: soma_6_meses.get(id, 0) / 6 for id in ids_com_dados}
         
-        # --- FIM DAS MODIFICAÇÕES ---
-        
-        # Processar estoques (esta seção permanece inalterada)
+        # Processar estoques
         with open(stock_path, 'r', encoding='utf-8') as f:
             dados_estoque = json.load(f)
             for item in dados_estoque:
                 cod = item.get('codigo') or item.get('codigoProduto', '')
                 if cod in ids:
+                    # Marcar que este ID tem dados
+                    ids_com_dados.add(cod)
+                    
                     estoques[cod] = sum(
                         filial['estoqueAtual'] 
                         for filial in item.get('estoqueFiliais', [])
                     )
         
-        # Gerar CSV
+        # MODIFICADO: Gerar CSV apenas com IDs que têm dados
         with open(output_path, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f, delimiter=';')
-            writer.writerow(['id', 'media', 'vendas_2025', 'estoque', 'vendas_6_meses'  ])
+            writer.writerow(['id', 'media', 'vendas_2025', 'estoque', 'vendas_6_meses'])
             
-            for id in ids:
+            for id in sorted(ids_com_dados):  # Apenas IDs com dados
                 writer.writerow([
                     id,
                     round(medias.get(id, 0), 5),
                     vendas_2025.get(id, 0),
                     estoques.get(id, 0),
-                    soma_6_meses    .get(id, 0)
+                    soma_6_meses.get(id, 0)
                 ])
         
         print(f"Relatório gerado em: {output_path}")
+        print(f"Total de IDs processados: {len(ids_com_dados)} de {len(ids)} disponíveis")
         return output_path
     
     except Exception as e:
